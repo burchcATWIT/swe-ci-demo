@@ -10,7 +10,7 @@ public class FizzBuzz {
 		return num+"";
 	}
 	
-	public static String processNumbers (int[] numList) {
+public static String processNumbers (int[] numList) {
 		String proc_num, new_nums = "";
 		for (int i = 0; i < numList.length; i++) {
 			proc_num = processNumber(numList[i]);
