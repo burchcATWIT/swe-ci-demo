@@ -21,3 +21,4 @@ public class FizzBuzz {
         }
         return new_nums;
     }
+}
